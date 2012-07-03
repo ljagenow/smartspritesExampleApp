@@ -1,0 +1,31 @@
+/** sprite:flagsprite; sprite-image:url('../images/flagsprite.png'); sprite-layout:vertical; */
+
+.germanFlag {
+  background-image: url(../flags/german_flag.png) !important /** sprite-ref:flagsprite; */
+}
+
+.danishFlag {
+  background-image: url(../flags/flag_da.png) !important /** sprite-ref:flagsprite; */
+}
+
+.englishFlag {
+  background-image: url(../flags/flag_en.png) !important /** sprite-ref:flagsprite; */
+}
+
+.frenchFlag {
+  background-image: url(../flags/flag_fr.png) !important /** sprite-ref:flagsprite; */
+}
+
+.netherlandsFlag {
+  background-image: url(../flags/flag_nl.png) !important /** sprite-ref:flagsprite; */
+}
+
+.russianFlag {
+  background-image: url(../flags/flag_ru.png) !important /** sprite-ref:flagsprite; */
+}
+
+.flagbox {
+  width: 16px;
+  height: 11px;
+  margin-bottom: 20px;
+}
